@@ -31,45 +31,30 @@ Process Optimization
 
 ---
 
-## Featured Projects
+## 🚀 Featured Case Studies
 
-### Billing Operations Management System (BOMS)
+### 🏗️ Billing Operations Management System (BOMS)
+**Category:** Enterprise Workflow Orchestration | [cite_start]**Impact:** 25+ Hours Saved Weekly [cite: 1046, 1089]
+* [cite_start]**The Problem:** High-volume, unstructured email intake led to limited workload visibility and significant administrative bottlenecks [cite: 933, 1061, 1067-1070].
+* [cite_start]**The Solution:** A layered, event-driven automation engine built on the **Microsoft Power Platform**[cite: 17, 530, 932, 1063].
+* [cite_start]**Key Innovation:** Architected a **Configuration-Driven Routing Model** to decouple role assignments from automation logic, ensuring long-term system maintainability[cite: 20, 259, 442, 1104].
+* [cite_start]**Tech Stack:** Power Automate, SharePoint Online, Power BI [cite: 17, 68-72, 940-945, 1063].
+* 🔗 **[View the Repository](https://github.com/awindsor7912/billing-operations-management-system)**
 
-An automation platform designed to transform inbox-driven billing workflows into a structured operational system.
+### 📦 Equipment Management Portal (EMP)
+**Category:** Asset Lifecycle & Data Governance | [cite_start]**Impact:** Normalized Legacy Data Fragmentation [cite: 1117, 1212-1215]
+* **The Problem:** Disparate regional spreadsheets created data silos and inhibited executive-level financial visibility.
+* [cite_start]**The Solution:** A model-driven EAM-lite system built on **Microsoft Dataverse** to centralize asset tracking and maintenance logs[cite: 1116, 1209, 1234, 1388].
+* **Key Innovation:** Engineered an **Overlay Soft-Close Rule** and custom Power Automate logic to bypass platform retrieval limits for accurate fleet-wide KPI calculations.
+* [cite_start]**Tech Stack:** Dataverse, Power Apps (Model-Driven), Power Automate [cite: 1135, 1233-1235].
+* 🔗 **[View the Repository](https://github.com/awindsor7912/equipment-management-portal)**
 
-Key features:
-
-• automated report intake  
-• intelligent workflow routing  
-• compliance monitoring  
-• operational analytics dashboards
-
-Impact:
-
-Reduced manual administrative workload by **25+ hours per week** across the billing team.
-
-Repository:
-
-👉 https://github.com/awindsor7912/billing-operations-management-system
-
----
-
-### Equipment Management Portal
-
-A Power Apps operational portal prototype designed to centralize equipment tracking and operational visibility.
-
-Key capabilities:
-
-• centralized equipment records  
-• equipment lifecycle tracking  
-• operational status dashboards  
-• scalable data model for field operations
-
-Repository:
-
-👉 https://github.com/awindsor7912/equipment-management-portal
-
----
+### 🧶 The Master's Loom
+**Category:** Real-Time Systems & AI Integration | **Impact:** Sub-100ms Latency State Sync
+* **The Problem:** Static, manual tracking in TTRPG environments breaks narrative immersion.
+* **The Solution:** A high-performance, cross-platform command center utilizing a **Real-Time Subscription Model**.
+* **Key Innovation:** Integrated a **Chronicle Engine** that leverages generative AI to synthesize live session transcripts into automated narrative recaps.
+* **Tech Stack:** FlutterFlow (Dart), Firebase (NoSQL), Google Gemini API.
 
 ## System Design Focus
 
@@ -92,5 +77,4 @@ Building automation and operational systems that improve visibility, reduce manu
 
 ## Connect With Me
 
-LinkedIn:  
-www.linkedin.com/in/ashleydwindsor
+**[LinkedIn](www.linkedin.com/in/ashleydwindsor)**
