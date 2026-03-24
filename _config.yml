@@ -1,5 +1,1 @@
-remote_theme: just-the-docs/just-the-docs
-title: BOMS Documentation
-description: Billing Operations Management System Technical Hub
-aux_links:
-  "View on GitHub": https://awindsor7912.github.io/awindsor7912/
+theme: jekyll-theme-slate
