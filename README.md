@@ -63,6 +63,8 @@ Process Optimization
 * **The Solution:** A high-performance, cross-platform command center utilizing a **Real-Time Subscription Model**.
 * **Key Innovation:** Integrated a **Chronicle Engine** that leverages generative AI to synthesize live session transcripts into automated narrative recaps.
 * **Tech Stack:** FlutterFlow (Dart), Firebase (NoSQL), Google Gemini API.
+* 🔗 **[View the Repository](https://awindsor7912.github.io/the-master-s-loom/)**
+
 
 ## System Design Focus
 
