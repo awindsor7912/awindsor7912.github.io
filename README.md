@@ -2,6 +2,8 @@
 
 Operations Automation | Workflow Systems | Technical Process Design
 
+![PROJECTSHOWCASE](project_showcase.png)
+
 ---
 
 ## About Me
@@ -31,7 +33,7 @@ Process Optimization
 
 ---
 
-## 🚀 Featured Case Studies
+## 🚀 Featured Case Studies & Projects
 
 ### 🏗️ Billing Operations Management System (BOMS)
 **Category:** Enterprise Workflow Orchestration | **Impact:** 25+ Hours Saved Weekly
