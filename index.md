@@ -9,10 +9,7 @@ description: Operations and Automation Analyst portfolio focused on workflow aut
       <span class="kicker">Portfolio</span>
       <h1>Ashley Windsor</h1>
       <p>
-        Operations and Automation Analyst with hands-on experience designing workflow systems,
-        building reporting solutions, and improving operational visibility through structured
-        automation and process improvement. This portfolio highlights selected work in workflow
-        automation, operational analytics, reporting, and systems-oriented project design.
+        Operations and Automation Analyst building workflow systems, reporting solutions, and process improvements that reduce manual workload and increase operational visibility. Delivered automation solutions that reduced billing processing effort by over 60%, saving 25+ hours per week.
       </p>
 
       <div class="hero-actions">
@@ -30,12 +27,12 @@ description: Operations and Automation Analyst portfolio focused on workflow aut
           <span class="value">Operations Analytics & Workflow Automation</span>
         </div>
         <div class="metric">
-          <span class="label">Key Impact</span>
+          <span class="label">Measured Impact</span>
           <span class="value">60%+ reduction in manual processing</span>
         </div>
         <div class="metric">
           <span class="label">Time Savings</span>
-          <span class="value">~25+ hours saved per week</span>
+          <span class="value">25+ hours saved per week</span>
         </div>
         <div class="metric">
           <span class="label">Core Stack</span>
@@ -51,18 +48,17 @@ description: Operations and Automation Analyst portfolio focused on workflow aut
     <div class="section-header">
       <h2>Overview</h2>
       <p>
-        This repository serves as the main portfolio entry point for professional project work centered on
-        workflow automation, operational reporting, process improvement, and business systems design.
-        The goal of the portfolio is to present practical, results-oriented work in a clear and professional format.
+        This portfolio highlights work focused on workflow automation, operational reporting, and system design.
+        Projects center on reducing manual effort, improving process visibility, and building structured solutions
+        that scale beyond ad hoc or spreadsheet-driven workflows.
       </p>
     </div>
 
     <div class="band">
-      <h3>Professional focus</h3>
+      <h3>What this portfolio demonstrates</h3>
       <p>
-        Core strengths include identifying workflow inefficiencies, translating business needs into structured
-        technical solutions, improving process visibility, and building systems that reduce manual effort while
-        increasing consistency and operational control.
+        Ability to identify operational inefficiencies, design structured workflow solutions, implement automation,
+        and improve data visibility across business processes using practical, production-oriented tools.
       </p>
     </div>
   </div>
@@ -73,8 +69,7 @@ description: Operations and Automation Analyst portfolio focused on workflow aut
     <div class="section-header">
       <h2>Featured Projects</h2>
       <p>
-        Selected projects demonstrating workflow automation, analytics delivery, systems thinking,
-        and operational process improvement.
+        Selected work demonstrating automation, analytics, and systems-oriented process improvement.
       </p>
     </div>
 
@@ -88,14 +83,12 @@ description: Operations and Automation Analyst portfolio focused on workflow aut
         </div>
         <h3>Billing Operations Management System (BOMS)</h3>
         <p>
-          Centralized workflow automation system designed to improve billing process efficiency,
-          reduce manual administrative effort, and increase visibility into workflow status, ownership,
-          and compliance-related tracking.
+          Built a centralized workflow system to replace manual billing tracking and streamline administrative processing.
         </p>
         <ul>
-          <li>Reduced manual processing time by approximately 60%.</li>
-          <li>Saved an estimated 25+ hours per week in administrative workload.</li>
-          <li>Improved consistency, visibility, and process control across billing workflows.</li>
+          <li>Reduced manual processing time by ~60%.</li>
+          <li>Eliminated ~25+ hours/week of repetitive administrative work.</li>
+          <li>Improved visibility into workflow status, ownership, and deadlines.</li>
         </ul>
         <div class="project-links">
           <a href="https://github.com/awindsor7912/billing-operations-management-system">View Repository</a>
@@ -106,18 +99,15 @@ description: Operations and Automation Analyst portfolio focused on workflow aut
         <div class="card-meta">
           <span class="tag">Data Management</span>
           <span class="tag">Systems Design</span>
-          <span class="tag">Asset Tracking</span>
         </div>
         <h3>Equipment Management Portal (EMP)</h3>
         <p>
-          Centralized equipment tracking and data management concept designed to improve asset visibility,
-          reduce dependence on fragmented spreadsheet processes, and support a more scalable operational
-          data structure.
+          Designed a centralized equipment tracking model to replace fragmented spreadsheet-based processes.
         </p>
         <ul>
-          <li>Focused on centralizing equipment lifecycle data.</li>
-          <li>Structured to support cleaner long-term data management practices.</li>
-          <li>Designed as a scalable alternative to disconnected manual tracking methods.</li>
+          <li>Improved equipment lifecycle visibility and data consistency.</li>
+          <li>Reduced reliance on disconnected manual tracking methods.</li>
+          <li>Structured for transition toward relational data management.</li>
         </ul>
         <div class="project-links">
           <a href="https://github.com/awindsor7912/equipment-management-portal">View Repository</a>
@@ -128,17 +118,15 @@ description: Operations and Automation Analyst portfolio focused on workflow aut
         <div class="card-meta">
           <span class="tag">Analytics</span>
           <span class="tag">Power BI</span>
-          <span class="tag">Reporting</span>
         </div>
         <h3>Operations Analytics Portfolio</h3>
         <p>
-          Portfolio repository highlighting reporting work, dashboard thinking, KPI visibility,
-          and analytics-focused process improvement for operational use cases.
+          Built reporting solutions to improve visibility into operational performance and billing-related metrics.
         </p>
         <ul>
-          <li>Demonstrates reporting and dashboard-oriented portfolio work.</li>
-          <li>Focused on operational visibility and business usability.</li>
-          <li>Supports presentation of analytics work in a professional format.</li>
+          <li>Developed dashboards for KPI tracking and operational insights.</li>
+          <li>Improved visibility into billing performance and production drivers.</li>
+          <li>Focused on clarity and usability for business stakeholders.</li>
         </ul>
         <div class="project-links">
           <a href="https://github.com/awindsor7912/Operations-Analytics-Portfolio">View Repository</a>
@@ -149,17 +137,15 @@ description: Operations and Automation Analyst portfolio focused on workflow aut
         <div class="card-meta">
           <span class="tag">Architecture</span>
           <span class="tag">Documentation</span>
-          <span class="tag">Learning Project</span>
         </div>
         <h3>The Master’s Loom</h3>
         <p>
-          Personal project used to explore application planning, structured documentation,
-          data schema thinking, and iterative system design in a hands-on development context.
+          Used as a structured learning project to develop skills in system design, data modeling, and application planning.
         </p>
         <ul>
-          <li>Demonstrates architecture and documentation discipline.</li>
-          <li>Used as a practical vehicle for learning app-building concepts.</li>
-          <li>Shows iterative design and repository presentation skills.</li>
+          <li>Documented application architecture and data schema concepts.</li>
+          <li>Demonstrated iterative system design and technical documentation.</li>
+          <li>Applied structured thinking to a full project lifecycle.</li>
         </ul>
         <div class="project-links">
           <a href="https://github.com/awindsor7912/the-master-s-loom">View Repository</a>
@@ -174,39 +160,35 @@ description: Operations and Automation Analyst portfolio focused on workflow aut
   <div class="container">
     <div class="section-header">
       <h2>Key Contributions</h2>
-      <p>Representative areas of professional impact reflected across this portfolio.</p>
+      <p>Representative outcomes delivered across projects and operational work.</p>
     </div>
 
     <div class="card-grid">
       <article class="card">
-        <h3>Workflow Automation</h3>
+        <h3>Reduced Manual Workload</h3>
         <p>
-          Designed and implemented automation-oriented process improvements that reduced repetitive
-          administrative effort and improved workflow consistency.
+          Automated repetitive administrative processes, significantly reducing time spent on manual billing tasks.
         </p>
       </article>
 
       <article class="card">
-        <h3>Operational Visibility</h3>
+        <h3>Improved Operational Visibility</h3>
         <p>
-          Built reporting and tracking solutions that improved transparency into workflow status,
-          deadlines, task ownership, and operational bottlenecks.
+          Built reporting and tracking systems that made workflow status, performance metrics, and bottlenecks visible.
         </p>
       </article>
 
       <article class="card">
-        <h3>Process Standardization</h3>
+        <h3>Standardized Workflows</h3>
         <p>
-          Converted inconsistent or manually managed work into more structured, repeatable workflows
-          supported by system logic and documented process design.
+          Converted inconsistent processes into structured, repeatable workflows supported by system logic and automation.
         </p>
       </article>
 
       <article class="card">
-        <h3>Systems Thinking</h3>
+        <h3>Designed Scalable Solutions</h3>
         <p>
-          Approached operational problems through a structured design lens, with emphasis on maintainability,
-          scalability, and long-term usability rather than one-off fixes.
+          Focused on building systems that are maintainable, extensible, and adaptable to evolving operational needs.
         </p>
       </article>
     </div>
@@ -217,7 +199,7 @@ description: Operations and Automation Analyst portfolio focused on workflow aut
   <div class="container">
     <div class="section-header">
       <h2>Technical Focus</h2>
-      <p>Primary tools and capabilities represented across the portfolio.</p>
+      <p>Tools and capabilities applied across projects.</p>
     </div>
 
     <div class="skill-list">
@@ -240,13 +222,13 @@ description: Operations and Automation Analyst portfolio focused on workflow aut
   <div class="container">
     <div class="section-header">
       <h2>Contact</h2>
-      <p>Professional links associated with this portfolio.</p>
+      <p>Professional links and portfolio access.</p>
     </div>
 
     <div class="card-grid">
       <article class="card">
         <h3>GitHub</h3>
-        <p>Main repository hub for portfolio projects and documentation.</p>
+        <p>Portfolio repositories and project documentation.</p>
         <div class="project-links">
           <a href="https://github.com/awindsor7912">View GitHub Profile</a>
         </div>
@@ -254,7 +236,7 @@ description: Operations and Automation Analyst portfolio focused on workflow aut
 
       <article class="card">
         <h3>LinkedIn</h3>
-        <p>Professional background, experience, and career profile.</p>
+        <p>Professional experience and background.</p>
         <div class="project-links">
           <a href="https://www.linkedin.com/in/ashleydwindsor">View LinkedIn</a>
         </div>
