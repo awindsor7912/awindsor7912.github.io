@@ -244,14 +244,14 @@ a:hover {
 
 .stats-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
 }
 
 .stat-card,
 .project-card,
 .about-card,
-.mini-profile-card,
+.profile-info-card,
 .contact-card {
   background: #fff;
   border: 1px solid var(--border);
@@ -307,13 +307,17 @@ a:hover {
 
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: repeat(12, minmax(0, 1fr));
   gap: 1.2rem;
+  align-items: stretch;
 }
 
 .project-card {
   grid-column: span 4;
   padding: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
 }
 
 .project-card-wide {
@@ -341,7 +345,7 @@ a:hover {
 
 .project-card h3,
 .contact-card h3,
-.mini-profile-card h3 {
+.profile-info-card h3 {
   margin: 0 0 0.65rem;
   color: var(--primary);
   font-size: 1.2rem;
@@ -351,13 +355,13 @@ a:hover {
 .project-card p,
 .contact-card p,
 .about-card p,
-.mini-profile-card p {
+.profile-info-card p {
   margin: 0 0 1rem;
   color: var(--muted);
 }
 
 .project-card ul {
-  margin: 0;
+  margin: 0 0 1rem;
   padding-left: 1.15rem;
   color: var(--text);
 }
@@ -369,57 +373,78 @@ a:hover {
 .project-links,
 .skill-list,
 .footer-links,
-.contact-grid {
+.contact-grid,
+.profile-links {
   display: flex;
   flex-wrap: wrap;
   gap: 0.85rem;
 }
 
 .project-links {
-  margin-top: 1rem;
+  margin-top: auto;
+  padding-top: 1rem;
 }
 
 .project-links a,
 .contact-card a,
-.footer-links a {
+.footer-links a,
+.profile-links a {
   font-weight: 800;
 }
 
 .about-grid {
   display: grid;
-  grid-template-columns: 1.15fr 0.85fr;
+  grid-template-columns: minmax(0, 1.5fr) minmax(320px, 0.9fr);
   gap: 1.2rem;
-  align-items: start;
+  align-items: stretch;
 }
 
-.about-card {
+.about-card,
+.profile-info-card {
   padding: 1.5rem;
+  height: 100%;
 }
 
-.mini-profile-card {
-  overflow: hidden;
+.profile-info-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
-.mini-profile-img {
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
-  object-position: center 30%;
-  border-bottom: 1px solid var(--border);
-}
-
-.mini-profile-copy {
-  padding: 1.2rem;
-}
-
-.mini-profile-label {
+.mini-profile-label,
+.profile-info-heading {
   display: block;
-  margin-bottom: 0.4rem;
   color: var(--muted);
   font-size: 0.8rem;
   font-weight: 800;
   letter-spacing: 0.04em;
   text-transform: uppercase;
+}
+
+.profile-focus {
+  color: var(--primary);
+  font-size: 1.05rem;
+  font-weight: 800;
+  margin-top: -0.2rem;
+}
+
+.profile-info-list {
+  display: grid;
+  gap: 1rem;
+  margin: 1rem 0 1.2rem;
+}
+
+.profile-info-item {
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--border);
+}
+
+.profile-info-text {
+  display: block;
+  margin-top: 0.25rem;
+  color: var(--text);
+  font-weight: 600;
+  line-height: 1.5;
 }
 
 .skill-list {
