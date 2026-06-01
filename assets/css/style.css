@@ -69,8 +69,8 @@ img { max-width: 100%; display: block; }
   min-height: 560px;
   color: #fff;
   background-image: url('../background_img.png');
-  background-size: contain;
-  background-position: center;
+  background-size: 100% auto;
+  background-position: center top;
   background-repeat: no-repeat;
   background-attachment: fixed;
   overflow: hidden;
