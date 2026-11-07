@@ -1,106 +1,224 @@
-# Ashley Windsor
 
-Operations Automation | Workflow Systems | Technical Process Design
+# Ashley D. Windsor
 
-![PROJECTSHOWCASE](project_showcase.png)
+### Business Systems Design | Operational Analytics | Workflow Automation
+
+**Billing Analyst | Business Systems Analysis | AI-Assisted Application Development**
+
+[Professional Portfolio](https://awindsor7912.github.io/) ·
+[GitHub](https://github.com/awindsor7912) ·
+[LinkedIn](https://www.linkedin.com/in/ashleydwindsor)
 
 ---
 
 ## About Me
 
-I specialize in designing automation systems that transform manual operational workflows into structured, scalable processes.
+I am a Billing Analyst with experience in enterprise
+operations, workflow automation, business systems
+design, and operational analytics.
 
-My work focuses on:
+My work focuses on identifying process inefficiencies,
+translating business requirements into technical
+solutions, and developing applications that improve
+operational efficiency and information visibility.
 
-• workflow automation  
-• operational system architecture  
-• Power Platform solutions  
-• process optimization for high-volume operations  
+My responsibilities include functional requirements
+engineering, application design, AI-assisted
+development, data validation, troubleshooting,
+testing, and iterative improvement.
 
-I currently work in operational billing systems where I design automation workflows that reduce manual workload, improve visibility, and increase operational efficiency.
-
----
-
-## Core Skills
-
-Automation Architecture  
-Workflow Systems Design  
-Microsoft Power Platform  
-Power Automate  
-SharePoint Online Data Systems  
-Power BI Operational Reporting  
-Process Optimization
+I combine firsthand operational knowledge with
+technical problem-solving to develop solutions
+that address practical business challenges.
 
 ---
 
-## 🚀 Featured Case Studies & Projects
+## Core Competencies
 
-### 🏗️ Billing Operations Management System (BOMS)
-**Category:** Enterprise Workflow Orchestration | **Impact:** 25+ Hours Saved Weekly
-* **The Problem:** High-volume, unstructured email intake led to limited workload visibility and significant administrative bottlenecks.
-* **The Solution:** A layered, event-driven automation engine built on the **Microsoft Power Platform**.
-* **Key Innovation:** Architected a **Configuration-Driven Routing Model** to decouple role assignments from automation logic, ensuring long-term system maintainability.
-* **Tech Stack:** Power Automate, SharePoint Online, Power BI.
-* 🔗 **[View the Repository](https://github.com/awindsor7912/billing-operations-management-system)**
+### Business Systems & Process Improvement
 
-### 📦 Equipment Management Portal (EMP)
-**Category:** Asset Lifecycle & Data Governance | **Impact:** Normalized Legacy Data Fragmentation.
-* **The Problem:** Disparate regional spreadsheets created data silos and inhibited executive-level financial visibility.
-* **The Solution:** A model-driven EAM-lite system built on **Microsoft Dataverse** to centralize asset tracking and maintenance logs.
-* **Key Innovation:** Engineered an **Overlay Soft-Close Rule** and custom Power Automate logic to bypass platform retrieval limits for accurate fleet-wide KPI calculations.
-* **Tech Stack:** Dataverse, Power Apps (Model-Driven), Power Automate.
-* 🔗 **[View the Repository](https://github.com/awindsor7912/equipment-management-portal)**
+- Business requirements analysis
+- Functional application design
+- Workflow and process analysis
+- Process standardization
+- User-oriented application experiences
+- Technical documentation
 
-### 📊 Operations Analytics Portfolio
-**Category:** Business Intelligence & ETL Automation | **Impact:** Eliminated manual, excel-based data analysis and provided cohesive visibility across datasets that previously was not available to the administrative and management team. 
-* **The Problem:** Fragmented billing workflows and manual daily reporting created significant visibility gaps in "unbilled revenue" and posed data security risks.
-* **The Solution:** A centralized suite of automated Power BI dashboards powered by event-driven ETL pipelines and secure, relational semantic models.
-* **Key Innovation:** Developed a **Dual-Layer Analytics Hub** that integrates a personalized, RLS-secured workflow monitor with a macro-level revenue pipeline featuring fully automated email-to-dashboard data ingestion.
-* **Tech Stack:** Power BI (DAX), Power Automate, SharePoint Online, Excel.
-* 🔗 **[View the Repository](https://awindsor7912.github.io/Operations-Analytics-Portfolio/)**
+### Data & Operational Analytics
 
-### 🧶 The Master's Loom
-**Category:** Real-Time Systems & AI Integration | **Impact:** Sub-100ms Latency State Sync
-* **The Problem:** Static, manual tracking in TTRPG environments breaks narrative immersion.
-* **The Solution:** A high-performance, cross-platform command center utilizing a **Real-Time Subscription Model**.
-* **Key Innovation:** Integrated a **Chronicle Engine** that leverages generative AI to synthesize live session transcripts into automated narrative recaps.
-* **Tech Stack:** FlutterFlow (Dart), Firebase (NoSQL), Google Gemini API.
-* 🔗 **[View the Repository](https://awindsor7912.github.io/the-master-s-loom/)**
+- SQL querying and relational data concepts
+- Data validation and reconciliation
+- Business intelligence and reporting
+- Dashboard design
+- Operational performance analysis
+- Data quality assessment
 
+### Application Development & Evaluation
 
-## System Design Focus
-
-I enjoy designing systems that sit at the intersection of operations and technology.
-
-Areas of interest:
-
-• internal operational platforms  
-• automation-driven workflow systems  
-• data-driven operational visibility  
-• scalable enterprise process design
+- AI-assisted application development
+- Iterative feature development
+- Functional testing
+- Troubleshooting and debugging
+- Requirements-based evaluation
+- Human review of AI-generated outputs
 
 ---
 
-## Current Focus
+## Featured Professional Case Study
 
-Building automation and operational systems that improve visibility, reduce manual workload, and enable teams to operate more efficiently.
+### Enterprise Operations Systems
+
+**Category:** Enterprise Workflow Automation,
+Business Systems Design & Operational Intelligence
+
+**Project Type:** Employer-Specific Professional Case Study
+
+This repository documents the evolution of two
+related enterprise operations initiatives undertaken
+during my employment with Infratech Corporation.
+
+**Phase I — Workflow Automation**
+
+Focused on administrative process improvement,
+structured workflow coordination, automation,
+and operational visibility.
+
+**Phase II — Integrated Operations Platform**
+
+Expanded the scope into a more comprehensive
+operational application incorporating:
+
+- Role-oriented workspaces
+- Centralized task and workflow management
+- Documentation automation
+- Data reconciliation and validation
+- Operational reporting
+- AI-assisted application development
+- Iterative functional testing and evaluation
+
+Phase II is currently undergoing limited-user
+operational evaluation.
+
+My contributions include requirements definition,
+functional design, AI-assisted implementation,
+troubleshooting, testing, and iterative refinement.
+
+The underlying initiatives and associated
+intellectual property remain the property of
+Infratech Corporation.
+
+Public documentation contains generalized
+professional information and excludes confidential
+implementation details.
+
+[View Enterprise Operations Systems](https://github.com/awindsor7912/enterprise-operations-systems)
 
 ---
 
-## 🛠️ Technical Toolbox
+## Independent Projects
 
-| Category | Technologies |
-| :--- | :--- |
-| **Workflow & ERP** | Power Automate, Power Apps, SharePoint, IBM Maximo Application Suite |
-| **Data & Analytics** | Dataverse, SQL (Mirroring), NoSQL (Firebase), Power BI |
-| **Architecture** | Event-Driven Design, Configuration-Driven Logic, RBAC |
-| **Development** | (Learning): Flutter, Dart, Python, REST API Integration |
+### The Master's Loom
+
+**Category:** Application Design & Interactive Systems
+
+An independent technical project exploring
+application concepts for tabletop role-playing
+game management, interactive experiences,
+and structured information tracking.
+
+Areas of interest include interface design,
+data organization, application architecture
+concepts, and emerging technologies.
+
+[View The Master's Loom](https://github.com/awindsor7912/the-master-s-loom)
 
 ---
 
-## 📈 Professional Philosophy
-> "Systems should serve the user, not the other way around. My objective is always to engineer out the 'busy work' so that specialists can focus on high-impact analysis and decision-making."
+## Technical Experience
 
-## Connect With Me
+| Category | Experience |
+|---|---|
+| Business Systems | Requirements engineering, functional design, workflow analysis |
+| Automation | Process improvement, task coordination, workflow design |
+| Data | SQL, relational concepts, data validation, reconciliation |
+| Reporting | Power BI, operational analytics, dashboard design |
+| Development | AI-assisted implementation, troubleshooting, iterative refinement |
+| Quality Assurance | Functional testing, output evaluation, discrepancy identification |
+| Documentation | Process documentation, technical case studies, functional specifications |
 
-**[LinkedIn](www.linkedin.com/in/ashleydwindsor)**
+Specific employer implementation technologies,
+integration configurations, and internal system
+details are intentionally excluded from public
+project documentation.
+
+---
+
+## Development Approach
+
+My general problem-solving approach follows
+five stages:
+
+1. **Analyze:** Understand the operational
+   problem and identify opportunities for improvement.
+
+2. **Define:** Establish requirements,
+   expected behavior, and functional constraints.
+
+3. **Develop:** Translate requirements into
+   technical functionality and workflows.
+
+4. **Validate:** Test outputs, investigate
+   discrepancies, and verify requirements.
+
+5. **Refine:** Incorporate feedback and
+   improve system usability and effectiveness.
+
+---
+
+## Portfolio Scope & Attribution
+
+This repository supports my independently
+maintained professional portfolio.
+
+The portfolio includes employer-specific
+professional case studies and independent
+technical projects.
+
+Employer-owned initiatives are documented
+at a generalized level to demonstrate
+professional responsibilities and technical
+competencies.
+
+Underlying employer applications, proprietary
+implementations, and associated intellectual
+property remain the property of their
+respective owners.
+
+Confidential business information, internal
+architecture, customer data, proprietary
+source code, and restricted implementation
+materials are not intentionally disclosed.
+
+---
+
+## Professional Interests
+
+- Business Systems Analysis
+- Technical Business Analysis
+- Workflow Automation
+- Operational Analytics
+- AI-Assisted Application Development
+- AI Output Evaluation
+- Enterprise Process Improvement
+- Data Quality & Reconciliation
+
+---
+
+## Connect
+
+**Portfolio:** https://awindsor7912.github.io/
+
+**GitHub:** https://github.com/awindsor7912
+
+**LinkedIn:** https://www.linkedin.com/in/ashleydwindsor
+
