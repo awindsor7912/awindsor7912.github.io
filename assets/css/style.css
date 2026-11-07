@@ -314,3 +314,22 @@ tr:last-child td { border-bottom: none; }
   .panel-chart, .kpi-grid, .grid-4, .grid-3, .grid-2, .metric-inner, .flow { grid-template-columns: 1fr; }
   .section { padding: 54px 20px; }
 }
+
+/* Prevent anchor headings from hiding behind sticky navigation */
+html {
+  scroll-padding-top: 90px;
+}
+
+section[id] {
+  scroll-margin-top: 90px;
+}
+
+/* Improve spacing between consecutive paragraphs */
+.project-body p + p {
+  margin-top: 12px;
+}
+
+/* Keep project cards consistent in height */
+.project-card {
+  height: 100%;
+}
